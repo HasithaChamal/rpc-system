@@ -1,0 +1,115 @@
+C:\Users\Ravindu\AppData\Local\Temporary Projects\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\Ravindu\AppData\Local\Temporary Projects\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\Ravindu\AppData\Local\Temporary Projects\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Ravindu\AppData\Local\Temporary Projects\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Dashboard.resources
+C:\Users\Ravindu\AppData\Local\Temporary Projects\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\Ravindu\AppData\Local\Temporary Projects\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Ravindu\AppData\Local\Temporary Projects\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ravindu\AppData\Local\Temporary Projects\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+C:\Users\Ravindu\AppData\Local\Temporary Projects\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Dashboard.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Stores.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Users.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Purchasing.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Recieving.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Dispatch.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Home.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Client.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Supplier.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Login.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.exe
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.pdb
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Client.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Dashboard.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Dispatch.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Home.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Login.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Purchasing.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Recieving.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Stores.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Supplier.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Users.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.exe
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.pdb
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.exe
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.pdb
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Client.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Dashboard.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Dispatch.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Home.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Login.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Purchasing.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Recieving.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Stores.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Supplier.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Users.resources
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.exe
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.pdb
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.exe.config
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\bin\Debug\Google.Protobuf.dll
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\bin\Debug\BouncyCastle.Crypto.dll
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\VMShare\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.CopyComplete
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.exe.config
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.exe
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.pdb
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\MySql.Data.dll
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\Google.Protobuf.dll
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\BouncyCastle.Crypto.dll
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\MySql.Data.xml
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Client.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Dashboard.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Dispatch.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Home.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Login.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Purchasing.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Recieving.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Stores.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Supplier.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Users.resources
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.CopyComplete
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.exe
+E:\SEM 1 YEAR 2\INTE 21223 - Interactive Application Development\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.exe.config
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.exe
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\InventoryManagementSystem.pdb
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\Google.Protobuf.dll
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Client.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Dashboard.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Dispatch.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Home.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Login.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Purchasing.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Recieving.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Stores.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Supplier.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.Users.resources
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.csproj.CopyComplete
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.exe
+D:\Project\project\c#projectfinal\InventoryManagementSystemV02\obj\x86\Debug\InventoryManagementSystem.pdb
